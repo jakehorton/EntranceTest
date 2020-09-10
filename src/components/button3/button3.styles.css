@@ -1,0 +1,12 @@
+.button3 {
+    /* position: absolute;
+    left: 1.11%;
+    right: 96.81%;
+    top: 34.3%;
+    bottom: 62.22%; */
+    height: 30px;
+    width: 30px;
+
+    border: 3px solid #102542;
+    box-sizing: border-box;
+}

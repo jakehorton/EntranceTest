@@ -1,0 +1,21 @@
+.button2 {
+    /* position: absolute;
+    left: 1.11%;
+    right: 96.81%;
+    top: 26.65%;
+    bottom: 68.6%; */
+    /* height: 30px;
+    width: 31px; */
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 41px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: -0.015em;
+
+    color: #102542;
+}
